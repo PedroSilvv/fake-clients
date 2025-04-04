@@ -1,0 +1,64 @@
+{
+  "clientes": [
+    {
+      "cpf": "11111111111",
+      "nome": "João Silva",
+      "idade": 32,
+      "renda": 4200.0
+    },
+    {
+      "cpf": "22222222222",
+      "nome": "Maria Oliveira",
+      "idade": 28,
+      "renda": 3800.0
+    },
+    {
+      "cpf": "33333333333",
+      "nome": "Carlos Souza",
+      "idade": 40,
+      "renda": 7500.0
+    },
+    {
+      "cpf": "44444444444",
+      "nome": "Ana Paula",
+      "idade": 35,
+      "renda": 5000.0
+    },
+    {
+      "cpf": "55555555555",
+      "nome": "Rafael Mendes",
+      "idade": 45,
+      "renda": 9000.0
+    },
+    {
+      "cpf": "66666666666",
+      "nome": "Juliana Costa",
+      "idade": 29,
+      "renda": 3100.0
+    },
+    {
+      "cpf": "77777777777",
+      "nome": "Bruno Lima",
+      "idade": 38,
+      "renda": 6700.0
+    },
+    {
+      "cpf": "88888888888",
+      "nome": "Fernanda Rocha",
+      "idade": 33,
+      "renda": 4300.0
+    },
+    {
+      "cpf": "99999999999",
+      "nome": "Luciana Martins",
+      "idade": 41,
+      "renda": 5100.0
+    },
+    {
+      "cpf": "00000000000",
+      "nome": "Eduardo Ferreira",
+      "idade": 36,
+      "renda": 5900.0
+    }
+  ]
+}
